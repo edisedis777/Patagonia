@@ -84,14 +84,11 @@ Contributions are welcome! If you'd like to improve this project:
 
 - [ ] Add multi-language support
 - [ ] Implement weather forecasts for hiking areas
-- [ ] Create a user contribution system for trail reviews
-- [ ] Develop a mobile app version
 
 ## 👏 Acknowledgments
 
 - Inspired by the breathtaking beauty of Patagonia's mountains, glaciers, and wildlife
-- Photos contributed by nature photographers worldwide
-- Thanks to the open-source community for the amazing tools and libraries
+- Photos and video by Unsplash https://unsplash.com/
 
 ## 📄 License
 
