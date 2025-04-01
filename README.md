@@ -89,6 +89,7 @@ Contributions are welcome! If you'd like to improve this project:
 
 - Inspired by the breathtaking beauty of Patagonia's mountains, glaciers, and wildlife
 - Photos and video by Unsplash https://unsplash.com/
+- Audio by Pixabay https://pixabay.com/
 
 ## 📄 License
 
