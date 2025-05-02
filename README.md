@@ -4,7 +4,6 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 <img width="707" alt="Screenshot 2025-04-01 at 15 01 05" src="https://github.com/user-attachments/assets/4346e330-25fe-407d-861d-154e05043908" />
 
@@ -93,8 +92,4 @@ Contributions are welcome! If you'd like to improve this project:
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE) - feel free to use, modify, and distribute it as you see fit.
-
----
-
-**Made with ❤️ by [edisedis777](https://github.com/edisedis777)**
+Distributed under the GNU Affero General Public License v3.0 License. See `LICENSE` for more information.
